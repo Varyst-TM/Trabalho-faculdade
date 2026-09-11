@@ -10,7 +10,7 @@ Página web simples apresentando uma galeria de fotos dos gatos Gwyn e Artorias,
 - CSS3 (estilos embutidos)
 
 ## Como visualizar
-Basta abrir o arquivo `index.html` no navegador.
+Abra o arquivo `index.html` no navegador.
 
 ## Autor
 Felipe Cauã Evaristo  
